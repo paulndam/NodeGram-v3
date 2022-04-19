@@ -1,0 +1,11 @@
+export { default as NavBar } from "../navBar/NavBar.jsx";
+export { default as SideBar } from "../sideBar/SideBar.jsx";
+export { default as Feeds } from "../feeds/Feeds.jsx";
+export { default as RightBar } from "../rightBar/RightBar.jsx";
+export { default as Post } from "../post/Post.jsx";
+export { default as AddPost } from "../post/AddPost.jsx";
+export { default as SignUp } from "../signup/SignUp.jsx";
+export { default as SignIn } from "../signin/SignIn.jsx";
+export { default as Home } from "../home/Home.jsx";
+export { default as Comment } from "../comment/Comment.jsx";
+export { default as Profile } from "../user/Profile.jsx";
